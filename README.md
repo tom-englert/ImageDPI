@@ -16,3 +16,5 @@ To use the native WPF resolution, you must remove the DPI tag from the PNG image
 
 This tool analyzes all PNG images and visualizes them, with an option to fix (i.e. remove) the 
 DPI information from the image.
+
+![screenshot](assets/screenshot.png)
